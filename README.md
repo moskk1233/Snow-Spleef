@@ -1,5 +1,6 @@
-# snow-war
-<p>This is my first minigame map so you can feedback to me everytime.</p>
-<p>And you can do anything in my project because it doesn't have License.</p>
+# Snow Spleef
+This is my first minigame map so you can feedback to me everytime.<br>
+And you can do anything in my project because it doesn't have License.
 
-<h2><p>Thank you for Playing !!</p></h2>
+Thank you for Playing<br>
+@[moskk1233](https://github.com/moskk1233)
